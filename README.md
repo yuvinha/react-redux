@@ -20,8 +20,10 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
     - **Topics**: Hooks, useState, useEffect, useRef, Fragments, Navigation Basics
     - **Libraries/APIs**: axios, wikipedia API, google translate API
 7. **[Songs](/07-songs)**: A demo app that displays a list of songs and a detail 
-    - **Topics**: Redux, API Request with Redux, Asynchronous Actions with Redux-Thunk 
-    - **Libraries/APIs**: JSON placeholder API, Lodash (memoize, uniq, chain)
+    - **Topics**: React-Redux 
 8. **[Blog](/08-blog)**: A demo app that lists blog posts 
-    - **Topics**: Redux, API Request with Redux, Asynchronous Actions with Redux-Thunk 
+    - **Topics**: API Request with Redux, Asynchronous Actions with Redux-Thunk 
     - **Libraries/APIs**: JSON placeholder API, Lodash (memoize, uniq, chain)
+9. **[Streams](/09-streams)**: A demo app that lists blog posts 
+    - **Topics**: CRUD,
+    - **Libraries/APIs**: 
