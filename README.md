@@ -1,9 +1,9 @@
 # Modern React with Redux
 Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) course on Udemy
-<
+
 ## Apps
 1. **[JSX](/01-jsx)** 
-    - **Topics**: JSX syntax
+    - **Topics**: JSX syntax. 
 2. **[Components](/02-components)**: A demo app that lists users' comments
     - **Topics**: Functional Components, Props
     - **Libraries/APIs**: semantic-ui, faker.js
@@ -24,6 +24,6 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
 8. **[Blog](/08-blog)**: A demo app that lists blog posts 
     - **Topics**: API Request with Redux, Asynchronous Actions with Redux-Thunk 
     - **Libraries/APIs**: JSON placeholder API, Lodash (memoize, uniq, chain)
-9. **[Streams](/09-streams)**: A demo app that lists blog posts 
-    - **Topics**: CRUD,
+9. **[Streams](/09-streams)**: CRUD(Create, Read, Update and Delete) in React
+    - **Topics**: CRUD,Google OAuth,
     - **Libraries/APIs**: 
