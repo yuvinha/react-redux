@@ -1,3 +1,6 @@
+# Introduction to JSX
+<img width="640" alt="01-jsx" src="https://user-images.githubusercontent.com/45850190/95187607-0697b980-07d4-11eb-9d71-790132290f16.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

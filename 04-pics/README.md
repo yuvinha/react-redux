@@ -1,3 +1,6 @@
+# 04-Pics
+![04-pics-gif](https://user-images.githubusercontent.com/45850190/95216859-39a17380-07fb-11eb-8bb4-b62801ebc08b.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

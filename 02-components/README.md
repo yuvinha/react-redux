@@ -1,3 +1,6 @@
+# 02-Components
+<img width="640" alt="02-components" src="https://user-images.githubusercontent.com/45850190/95190295-c3d7e080-07d7-11eb-9abf-e8c5dbd07cd2.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
