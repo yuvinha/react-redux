@@ -18,7 +18,7 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
     - **Libraries/APIs**: axios, unsplash API
     
 5. **[Videos](/05-videos)/[Videos-Hooks](/05-videos-hooks)**: Youtube browser application
-    - **Topics**: Practice event handling and API request & Refactor the app to use Hooks, Custom Hooks
+    - **Topics**: Event Handling, API request in React, Hooks, Custom Hooks
     - **Libraries/APIs**: axios, youtube API
     
 6. **[Widgets](/06-widgets)**: Four different widgets (Accordion, Search, Dropdown, Translate)
@@ -30,11 +30,11 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
     
 8. **[Blog](/08-blog)**: A demo app that lists blog posts 
     - **Topics**: API Request with Redux, Asynchronous Actions with Redux-Thunk 
-    - **Libraries/APIs**: JSON placeholder API, Lodash (memoize, uniq, chain)
+    - **Libraries/APIs**: JSON placeholder API, Lodash
     
 9. **[Streams (Capstone)](/09-streams)**: CRUD(Create, Read, Update and Delete) in React
     - **Topics**: CRUD, Authentication, RESTful API, React Router, React Portals, Redux Form
-    - **Libraries/APIs**: Google's OAuth 2.0, json-server, node-media-server, flv.js, Lodash (mapKeys, pick, omit) 
+    - **Libraries/APIs**: Google's OAuth 2.0, json-server, node-media-server, flv.js, Lodash
     
 10. **[Translate](/10-translate)**: Language selector feature
     - **Topics**: React Context
