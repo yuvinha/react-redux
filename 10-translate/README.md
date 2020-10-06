@@ -1,3 +1,6 @@
+# 10-Translate
+![10-translate](https://user-images.githubusercontent.com/45850190/95249118-e8a47600-0820-11eb-862b-5f6079f065a9.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
