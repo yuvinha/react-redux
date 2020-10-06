@@ -11,14 +11,14 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
     - **Topics**: Class-based Components, State, Lifecycle, defaultProps
     - **Libraries/APIs**: geolocation API
 4. **[Pics](/04-pics)**: Image search application via *Unsplash*
-    - **Topics**:Event Handling and API Request in React, Refs
+    - **Topics**:Event Handling, API request in React, Refs
     - **Libraries/APIs**: axios, unsplash API
 5. **[Videos](/05-videos)/[Videos-Hooks](/05-videos-hooks)**: Youtube browser application
     - **Topics**: Practice event handling and API request & Refactor the app to use Hooks, Custom Hooks
     - **Libraries/APIs**: axios, youtube API
 6. **[Widgets](/06-widgets)**: Four different widgets (Accordion, Search, Dropdown, Translate)
     - **Topics**: Hooks, useState, useEffect, useRef, Fragments, Navigation Basics
-    - **Libraries/APIs**: axios, Wikipedia API, Google Translate API
+    - **Libraries/APIs**: axios, wikipedia API, google translate API
 7. **[Blogs](/07-blogs)**: A demo app that lists blog posts 
-    - **Topics**: Redux, Reducers, Redux-thunk, API Request with Redux
-    - **Libraries/APIs**: JSON Placeholder API
+    - **Topics**: Redux, API Request with Redux, Asynchronous Actions with Redux-Thunk 
+    - **Libraries/APIs**: JSON placeholder API, Lodash (memoize, uniq, chain)
