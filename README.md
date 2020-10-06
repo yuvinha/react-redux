@@ -16,3 +16,6 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
 5. **[Videos](/05-videos)/[Videos-Hooks](/05-videos-hooks)**: Youtube browser application
     - **Topics**: Practice event handling and API request & Refactor the app to use Hooks
     - **Libraries/APIs**: axios, youtube API
+6. **[Widgets](/06-widgets)**: Four different widgets (Accordion, Search, Dropdown, Translate)
+    - **Topics**: Hooks, useState, useEffect, useRef, Fragments
+    - **Libraries/APIs**: Wikipedia API, Google Translate API
