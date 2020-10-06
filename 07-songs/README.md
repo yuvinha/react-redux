@@ -1,5 +1,5 @@
-# 07-Blog
-![07-blogs](https://user-images.githubusercontent.com/45850190/95229108-d9193300-0808-11eb-8b4d-829bfc05c139.gif)
+# 07-Songs
+![07-songs](https://user-images.githubusercontent.com/45850190/95232663-7ecea100-080d-11eb-9493-9f3a46f66e79.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
