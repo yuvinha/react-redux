@@ -3,7 +3,8 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
 
 ## Apps
 1. **[JSX](/01-jsx)** 
-    - **Topics**: JSX syntax. 
+    - **Topics**: JSX syntax <br>
+    
 2. **[Components](/02-components)**: A demo app that lists users' comments
     - **Topics**: Functional Components, Props
     - **Libraries/APIs**: semantic-ui, faker.js
