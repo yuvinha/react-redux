@@ -4,13 +4,13 @@ import ReactDOM from "react-dom";
 
 // Create a react component
 const btnStyle = {
-  backgroundColor: "green",
+  backgroundColor: "ForestGreen",
   color: "white",
 };
 
 const App = () => {
   return (
-    <div>
+    <div style={{ fontFamily: "Helvetica, san-serif" }}>
       <label htmlFor="name" className="label">
         Enter name:{" "}
       </label>
