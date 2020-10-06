@@ -1,3 +1,13 @@
+# 06-Widgets
+#### Accordion
+![06-accordion](https://user-images.githubusercontent.com/45850190/95226131-3f9c5200-0805-11eb-928e-adf45667be7a.gif)
+#### Search
+![06-search](https://user-images.githubusercontent.com/45850190/95226254-62c70180-0805-11eb-8837-d96fd125234f.gif)
+#### Drowdown
+![06-dropdown](https://user-images.githubusercontent.com/45850190/95226334-7bcfb280-0805-11eb-9374-74546cc74c81.gif)
+#### Translate
+![06-translate](https://user-images.githubusercontent.com/45850190/95226388-8b4efb80-0805-11eb-94e9-62f43a01e6d3.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
