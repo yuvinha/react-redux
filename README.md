@@ -4,15 +4,18 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
 ## Apps
 1. **[JSX](/01-jsx)** 
     - **Topics**: JSX syntax
-2. **[Components](/02-components)**: an application that *lists users' comments*
+2. **[Components](/02-components)**: A simple app that lists users' comments
     - **Topics**: Functional Components, Props
     - **Libraries/APIs**: semantic-ui, faker.js
-3. **[Seasons](/03-seasons)**: an application that *displays the current season of the user's location*
+3. **[Seasons](/03-seasons)**: A simple app that displays the current season of the user's location
     - **Topics**: Class-based Components, State, Lifecycle, defaultProps
     - **Libraries/APIs**: geolocation API
-4. **[Pics](/04-pics)**
+4. **[Pics](/04-pics)**: Image search application via *Unsplash*
     - **Topics**:Event Handling and API Request in React, Refs
     - **Libraries/APIs**: axios, unsplash API
-4. **[Pics](/04-pics)**
+5. **[Videos](/05-videos)**: Youtube browser application
+    - **Topics**:Event Handling and API Request in React
+    - **Libraries/APIs**: axios, youtube API    
+   **[Videos-Hooks](/05-videos-hooks)**
     - **Topics**:Event Handling and API Request in React, Refs
-    - **Libraries/APIs**: axios, unsplash API    
+    - **Libraries/APIs**: axios, unsplash API 
