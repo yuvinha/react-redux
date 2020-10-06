@@ -2,6 +2,8 @@
 Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) course on Udemy
 
 ## Apps
+> Each project directory contains screenshots/GIFs.
+
 1. **[JSX](/01-jsx)** 
     - **Topics**: JSX syntax
     
