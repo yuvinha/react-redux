@@ -8,7 +8,7 @@ import ColorSelector from "./ColorSelector";
 class App extends React.Component {
   render() {
     return (
-      <div className="ui container">
+      <div className="ui container" style={{ marginTop: "10px" }}>
         <LanguageStore>
           <LanguageSelector onLanguageChange={this.onLanguageChange} />
           <ColorStore>

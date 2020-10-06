@@ -4,7 +4,7 @@ import Button from "./Button";
 
 const UserCreate = () => {
   return (
-    <div className="ui form">
+    <div className="ui form" style={{ marginTop: "10px" }}>
       <Field />
       <Button />
     </div>
