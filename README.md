@@ -19,6 +19,6 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
 6. **[Widgets](/06-widgets)**: Four different widgets (Accordion, Search, Dropdown, Translate)
     - **Topics**: Hooks, useState, useEffect, useRef, Fragments, Navigation Basics
     - **Libraries/APIs**: axios, wikipedia API, google translate API
-7. **[Blogs](/07-blogs)**: A demo app that lists blog posts 
+7. **[Blogs](/07-blog)**: A demo app that lists blog posts 
     - **Topics**: Redux, API Request with Redux, Asynchronous Actions with Redux-Thunk 
     - **Libraries/APIs**: JSON placeholder API, Lodash (memoize, uniq, chain)
