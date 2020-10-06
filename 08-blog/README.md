@@ -1,3 +1,6 @@
+# 08-Blog
+![08-blog](https://user-images.githubusercontent.com/45850190/95232470-3616e800-080d-11eb-861c-961fdfe9ae87.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
