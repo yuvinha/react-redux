@@ -1,4 +1,4 @@
-# Modern React with Redux Course [2020 Update]
+# Modern React with Redux
 Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) course on Udemy
 <
 ## Apps
@@ -13,9 +13,6 @@ Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]]
 4. **[Pics](/04-pics)**: Image search application via *Unsplash*
     - **Topics**:Event Handling and API Request in React, Refs
     - **Libraries/APIs**: axios, unsplash API
-5. **[Videos](/05-videos)**: Youtube browser application
-    - **Topics**:Event Handling and API Request in React
-    - **Libraries/APIs**: axios, youtube API    
-   **[Videos-Hooks](/05-videos-hooks)**
-    - **Topics**:Event Handling and API Request in React, Refs
-    - **Libraries/APIs**: axios, unsplash API 
+5. **[Videos](/05-videos)/[Videos-Hooks](/05-videos-hooks)**: Youtube browser application
+    - **Topics**: Practice event handling and API request & Refactor the app to use Hooks
+    - **Libraries/APIs**: axios, youtube API
