@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "First title",
+      "description": "First description",
+      "id": 1
+    },
+    {
+      "title": "Second Title",
+      "description": "Second Description",
+      "id": 2
+    },
+    {
+      "title": "Third Title",
+      "description": "Third Description",
+      "id": 3
+    },
+    {
+      "title": "Fourth Title",
+      "description": "Fourth Description",
+      "id": 4
+    },
+    {
+      "title": "Created after sign-in",
+      "description": "This has been created after sign-in",
+      "userId": "113316899535148212354",
+      "id": 5
+    },
+    {
+      "title": "Component Reuse (1)",
+      "description": "Updated description",
+      "id": 8
+    }
+  ]
+}
