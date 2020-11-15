@@ -1,6 +1,8 @@
 # Modern React with Redux
 Course projects for the Stephen Grider's [Modern React with Redux [2020 Update]](https://www.udemy.com/course/react-redux/) course on Udemy
-> Status: Completed (2th Sep 2020)
+
+- Course Info: 559 lectures, 52h 21m videos
+- Progress: Completed (2th Sep 2020)
 
 ## Apps
 > Each project directory contains screenshots/GIFs.
